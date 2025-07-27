@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est David Antoine Lafleur
+# 👋 Salut, moi c'est David ANTOINE
 
 ### 🌟 Qui suis-je ?
 Passionné par l'informatique, le numérique et la programmation en général, j’ai découvert le développement web au lycée en filière STI2D option SIN. Depuis, mon parcours m’a permis d’explorer plusieurs horizons, notamment grâce à des expériences enrichissantes et des formations spécialisées.
