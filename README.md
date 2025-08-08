@@ -51,7 +51,7 @@ Passionné par l'informatique, le numérique et la programmation en général, j
 ### 📫 Contactez-moi
 - **Email** : [david.dharma815@outlook.fr](mailto:david.dharma815@outlook.fr)
 - **Portfolio** : [Mon site web](https://davidantoine.zapto.org)
-- **LinkedIn** : *(Ajoutez le lien si disponible)*
+- **LinkedIn** : https://www.linkedin.com/in/david-antoine-73a038270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
