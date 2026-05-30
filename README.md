@@ -1,59 +1,59 @@
-# 👋 Salut, moi c'est David ANTOINE
+# 👋 Développeur Flutter Mobile
 
-### 🌟 Qui suis-je ?
-Passionné par l'informatique, le numérique et la programmation en général, j’ai découvert le développement web au lycée en filière STI2D option SIN. Depuis, mon parcours m’a permis d’explorer plusieurs horizons, notamment grâce à des expériences enrichissantes et des formations spécialisées.
+## 🚀 À propos de moi
 
-🎓 **Formations :**
-- **2023-2024** : Concepteur Développeur d’Applications (GRETA 21, site Le Castel)
-- **2022-2023** : Développeur Web et Web Mobile (Web Force 3, Titre Pro BAC+2)
-- Expériences complémentaires : Fabrik Ton Parcours, Garantie Jeune, E2C
+Je suis développeur passionné par le développement mobile, spécialisé dans la création d’applications modernes avec **Flutter (Android & iOS)**.
 
-🎸 **Un autre univers** : Depuis près de 10 ans, je suis musicien dans des ensembles variés (fanfare, harmonie, rock, metal, électro et bien plus).
+Je conçois des applications fluides, responsives et fonctionnelles, allant du prototype (MVP) jusqu’à des applications complètes prêtes à être utilisées.
 
 ---
 
-### 💼 Expériences Professionnelles
-- **2024** : Stage en Développement Informatique (CIAD LAB UBFC Dijon)
-- **2023** : Vendanges (Domaine R. JEANNIARD)
-- **2022** : Vendanges (Loic HAYME Prestations Viticoles)
-- **2021** : Agent de valorisation (ID’EES 21, Centre de tri Dijon-Nord Valmy)
+## 📱 Spécialisation
+
+- Développement d’applications mobiles avec **Flutter / Dart**
+- Création d’interfaces utilisateur modernes et responsives
+- Intégration d’API REST
+- Gestion de données locales et cloud (ex : Firebase)
+- Développement de MVP pour projets personnels et startups
 
 ---
 
-### 🛠️ Compétences Techniques
-**Langages :**
-- HTML, CSS, JavaScript, PHP, SQL, Java, Python, Dart, C, C++
+## 🛠️ Stack principale
 
-**Frameworks & Outils :**
-- Angular, React, Next.js, Expo
-- Symfony, Laravel, Twig
-- Flutter, FastAPI, Django, Flask
-- Arduino Programming
-
-**Bureautique :**
-- Maîtrise des outils classiques (Word, Excel, PowerPoint, etc.)
-
-**Langues :**
-- Français (natif)
-- Anglais (professionnel)
-- Espagnol (professionnel)
-- Quelques notions : Allemand, Japonais
+- Flutter / Dart  
+- Firebase (ou API REST)  
+- Git / GitHub  
+- UI Design mobile (Material / Cupertino)
 
 ---
 
-### 🌱 Loisirs & Centres d’intérêts
-- 🎶 **Musique** : Jouer dans des groupes et explorer de nouveaux genres (rock, metal, électro, etc.)
-- 🚀 **Aéronautique & Aérospatial** : Une passion qui me fascine autant que l’informatique.
-- 💻 **Informatique & Programmation** : Toujours curieux d’apprendre de nouvelles technologies et d’explorer des projets innovants.
+## 📦 Projets
+
+👉 Projets en cours de construction et amélioration :
+
+- 📱 **App 1 — Application utilitaire (en cours)**
+- 📱 **App 2 — Application connectée API (en cours)**
+- 📱 **App 3 — MVP type client (à venir)**
 
 ---
 
-### 📫 Contactez-moi
-- **Email** : [david.dharma815@outlook.fr](mailto:david.dharma815@outlook.fr)
-- **Portfolio** : [Mon site web](https://davidantoine.zapto.org)
-- **LinkedIn** : https://www.linkedin.com/in/david-antoine-73a038270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## 🎯 Objectif
+
+Mon objectif est de concevoir des applications mobiles utiles, performantes et prêtes pour un usage réel ou commercial.
+
+Je me spécialise dans les projets concrets orientés produit (MVP, apps métiers, prototypes startups).
 
 ---
 
-### ✨ Fun Fact
-Développeur le jour, musicien la nuit, je combine ma passion pour l’informatique avec mon amour de la musique pour alimenter ma créativité !
+## 🎶 Centres d’intérêt
+
+- 🎵 Musique (fanfare, rock, metal, électro…)
+- 🚀 Aéronautique et spatial
+- 💻 Technologie et innovation mobile
+
+---
+
+## 📫 Contact
+
+- Email : david.dharma815@outlook.fr 
+- LinkedIn : https://www.linkedin.com/in/david-antoine-73a038270
