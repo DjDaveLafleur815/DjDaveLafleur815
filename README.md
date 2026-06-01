@@ -25,11 +25,21 @@ Actuellement en recherche active de **missions freelance** (via Malt, ComeUp, IT
 
 ## 📱 Projets en cours / réalisés
 
-- **Application utilitaire** (en cours) — Gestion + fonctionnalités avancées
-- **Application connectée API** (en cours) — Intégration backend en temps réel
-- **MVP client** (à venir)
+### 🚀 [TaskFlow](https://github.com/DjDaveLafleur815/taskflow_flutter) *(En cours - Mise en avant)*
+Application de **gestion de tâches avancée** développée avec **Flutter** en architecture **MVC**.
 
-→ Plus de détails et screenshots bientôt dans des repositories dédiés.
+- Formulaire complet (titre, description, priorité, catégorie, date d’échéance)
+- Filtres intelligents (Aujourd’hui, Terminées, En cours...)
+- Architecture propre MVC + Provider
+- Dockerisé pour un environnement de développement reproductible
+
+**Stack** : Flutter, Dart, Firebase (prévu), Provider, Docker
+
+→ [Voir le repository](https://github.com/DjDaveLafleur815/taskflow_flutter)
+
+---
+
+* Autres projets en cours : Application connectée API, MVP client...
 
 ---
 
