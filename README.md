@@ -1,40 +1,39 @@
 # 👋 David ANTOINE — Développeur Flutter Freelance
 
-**Spécialisé dans la création d’applications mobiles Android & iOS performantes.**
+**Spécialisé dans le développement d’applications mobiles Android & iOS avec Flutter.**
 
 ---
 
 ## 🚀 À propos
 
-Développeur Flutter passionné, je crée des applications **cross-platform** avec une architecture **MVC** propre.  
-Je réalise des **MVP** et des applications métiers, avec un code maintenable et une bonne UX.
+Développeur Flutter passionné basé à Dijon, je crée des applications **cross-platform** performantes, maintenables et avec une bonne expérience utilisateur.
 
-Actuellement en recherche active de **missions freelance** (Malt, ComeUp, ITG).
+J’utilise une **architecture MVC propre** et je dockerise mes projets pour faciliter la collaboration.
+
+Actuellement ouvert aux **missions freelance** (Malt, ComeUp, ITG).
 
 ---
 
 ## 🛠️ Stack Technique
 
 - **Mobile** : Flutter (Dart), Provider, MVC Architecture
-- **Backend** : Firebase (en cours), API REST
 - **Outils** : Git, Docker, Figma → Flutter
+- **Backend** : Firebase, API REST (en cours)
 - **Autres** : PHP / Symfony
 
 ---
 
-## 📱 Projets en cours / réalisés
+## 📱 Projets phares
 
-### 🚀 **[TaskFlow](https://github.com/DjDaveLafleur815/taskflow_flutter)** *(Mise en avant)*
-**Application de gestion de tâches avancée** développée en **Flutter + MVC**.
+### 🚀 **[TaskFlow](https://github.com/DjDaveLafleur815/taskflow_flutter)** — *Mise en avant*
+**Application de gestion de tâches avancée**
 
-- Formulaire complet (titre, description, priorité, catégorie, date)
-- Filtres intelligents et statistiques
-- Architecture propre + Provider
+- Formulaire complet (priorité, catégorie, date d’échéance, description)
+- Filtres intelligents + statistiques
+- Architecture MVC + Provider
 - Dockerisé
 
-→ [Voir le projet complet](https://github.com/DjDaveLafleur815/taskflow_flutter)
-
----
+→ [Voir le repository](https://github.com/DjDaveLafleur815/taskflow_flutter)
 
 *(Autres projets en cours : Application connectée API, MVP client...)*
 
@@ -42,18 +41,21 @@ Actuellement en recherche active de **missions freelance** (Malt, ComeUp, ITG).
 
 ## 🎯 Disponible pour
 
-- Missions freelance Flutter (MVP, apps métiers, refonte)
-- Développement mobile Android & iOS
-- Projets en remote ou Bourgogne-Franche-Comté
+- Création de **MVP** pour startups
+- Applications métiers sur mesure
+- Évolution / maintenance d’applications existantes
+- Projets en remote ou en Bourgogne-Franche-Comté
+
+**Tarif** : 250 € / jour
 
 ---
 
 ## 📫 Me contacter
 
-- **Malt** : [Ton lien Malt]
-- **LinkedIn** : [Ton LinkedIn](https://www.linkedin.com/in/david-antoine-73a038270/)
-- **Email** : david.dharma815@outlook.fr
+- **Malt** → [Ton profil Malt]
+- **LinkedIn** → [David ANTOINE](https://www.linkedin.com/in/david-antoine-73a038270/)
+- **Email** → david.dharma815@outlook.fr
 
 ---
 
-*Ouvert aux opportunités freelance — N’hésitez pas à me contacter !*
+*Ouvert aux opportunités freelance — N’hésitez pas à me contacter pour discuter de votre projet !*
