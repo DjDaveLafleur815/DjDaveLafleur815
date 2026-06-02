@@ -1,66 +1,57 @@
 # 👋 David ANTOINE — Développeur Flutter Freelance
 
-**Spécialisé dans la création d’applications mobiles performantes et intuitives avec Flutter.**
+Je transforme vos idées en **applications mobiles performantes et professionnelles** (iOS & Android).
 
 ---
 
-## 🚀 À propos
+## 💼 Ce que je propose
 
-Développeur Flutter passionné basé à Dijon, je conçois des applications **cross-platform** (iOS & Android) modernes, maintenables et centrées utilisateur.
+- Applications sur mesure (réservation, gestion, productivité, e-commerce...)
+- MVP rapides et propres pour startups et PME
+- Refonte / évolution d’applications existantes
+- Applications avec backend (FastAPI)
 
-J’adopte une **architecture MVC claire**, je dockerise systématiquement mes projets et je livre des solutions **prêtes à l’emploi** pour les clients.
-
-**Actuellement ouvert aux missions freelance** (court et moyen terme).
-
----
-
-## 🛠 Stack Technique
-
-- **Mobile** : Flutter (Dart), Riverpod, GoRouter, Clean Architecture / MVC
-- **Backend** : FastAPI (Python), API REST, Firebase
-- **Outils** : Git, Docker, Docker Compose, Figma
-- **Autres** : PHP / Symfony (expérience antérieure)
+**Tarif débutant : 220€ / jour** (négociable selon durée et projet)
 
 ---
 
-## 📱 Projets Phares
+## 📱 Projets Réalisés
 
-### **Réserva** — *MVP Client Réel* (2025)
-Application de prise de rendez-vous multi-rôles (Client / Professionnel)
-- Recherche de professionnels, prise de RDV avec calendrier
-- Dashboard professionnel + gestion des créneaux
-- Architecture MVC simple et maintenable
-→ [Voir le repository](https://github.com/DjDaveLafleur815/reserva)
+### **Réserva** — Application de Réservation
+Solution complète Client + Professionnel (prise de RDV, agenda, dashboard)
+→ [Voir le projet](https://github.com/DjDaveLafleur815/reserva)
 
 ### **ClimaFlow** — Application Météo Connectée
-Consommation d’API externe (OpenWeatherMap) + design moderne
-- Géolocalisation, recherche, icônes dynamiques
-- Backend FastAPI + Docker
-→ [Voir le repository](https://github.com/DjDaveLafleur815/climaflow)
+Consommation d’API en temps réel + design moderne
+→ [Voir le projet](https://github.com/DjDaveLafleur815/climaflow)
 
 ### **TaskFlow** — Gestion de tâches avancée
-Application complète de productivité
-→ [Voir le repository](https://github.com/DjDaveLafleur815/taskflow_flutter)
+Application de productivité complète
+→ [Voir le projet](https://github.com/DjDaveLafleur815/taskflow_flutter)
 
 ---
 
-## 🎯 Disponible pour
+## 🛠 Compétences
 
-- Création de **MVP** pour startups et PME
-- Applications métiers sur mesure (gestion, réservation, productivité…)
-- Refonte ou évolution d’applications existantes
-- Projets en remote ou en Bourgogne-Franche-Comté
-
-**Tarif journalier** : 250 € / jour
+- Flutter (Riverpod, GoRouter, Clean/MVC)
+- FastAPI (Python) + PostgreSQL
+- Docker & Docker Compose
+- Design intuitif (Figma → Flutter)
 
 ---
 
-## 📫 Me contacter
+## 📍 Disponible pour missions
 
-- **Malt** → [Lien Malt]
-- **LinkedIn** → [David ANTOINE](https://www.linkedin.com/in/david-antoine-73a038270/)
-- **Email** → david.dharma815@outlook.fr
+- Remote (France)
+- Dijon / Bourgogne-Franche-Comté
+- Durée : 1 à 6 mois
+
+**Vous avez un projet ?** Contactez-moi, je réponds en moins de 24h.
 
 ---
 
-*Ouvert aux nouvelles opportunités freelance. N’hésitez pas à me contacter, je réponds rapidement !*
+**Email** : david.dharma815@outlook.fr  
+**Malt** : [lien]  
+**LinkedIn** : [lien]
+
+*Actuellement ouvert aux nouvelles missions freelance.*
