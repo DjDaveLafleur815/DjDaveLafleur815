@@ -1,61 +1,66 @@
 # 👋 David ANTOINE — Développeur Flutter Freelance
 
-**Spécialisé dans le développement d’applications mobiles Android & iOS avec Flutter.**
+**Spécialisé dans la création d’applications mobiles performantes et intuitives avec Flutter.**
 
 ---
 
 ## 🚀 À propos
 
-Développeur Flutter passionné basé à Dijon, je crée des applications **cross-platform** performantes, maintenables et avec une bonne expérience utilisateur.
+Développeur Flutter passionné basé à Dijon, je conçois des applications **cross-platform** (iOS & Android) modernes, maintenables et centrées utilisateur.
 
-J’utilise une **architecture MVC propre** et je dockerise mes projets pour faciliter la collaboration.
+J’adopte une **architecture MVC claire**, je dockerise systématiquement mes projets et je livre des solutions **prêtes à l’emploi** pour les clients.
 
-Actuellement ouvert aux **missions freelance** (Malt, ComeUp, ITG).
-
----
-
-## 🛠️ Stack Technique
-
-- **Mobile** : Flutter (Dart), Provider, MVC Architecture
-- **Outils** : Git, Docker, Figma → Flutter
-- **Backend** : Firebase, API REST (en cours)
-- **Autres** : PHP / Symfony
+**Actuellement ouvert aux missions freelance** (court et moyen terme).
 
 ---
 
-## 📱 Projets phares
+## 🛠 Stack Technique
 
-### 🚀 **[TaskFlow](https://github.com/DjDaveLafleur815/taskflow_flutter)** — *Mise en avant*
-**Application de gestion de tâches avancée**
+- **Mobile** : Flutter (Dart), Riverpod, GoRouter, Clean Architecture / MVC
+- **Backend** : FastAPI (Python), API REST, Firebase
+- **Outils** : Git, Docker, Docker Compose, Figma
+- **Autres** : PHP / Symfony (expérience antérieure)
 
-- Formulaire complet (priorité, catégorie, date d’échéance, description)
-- Filtres intelligents + statistiques
-- Architecture MVC + Provider
-- Dockerisé
+---
 
+## 📱 Projets Phares
+
+### **Réserva** — *MVP Client Réel* (2025)
+Application de prise de rendez-vous multi-rôles (Client / Professionnel)
+- Recherche de professionnels, prise de RDV avec calendrier
+- Dashboard professionnel + gestion des créneaux
+- Architecture MVC simple et maintenable
+→ [Voir le repository](https://github.com/DjDaveLafleur815/reserva)
+
+### **ClimaFlow** — Application Météo Connectée
+Consommation d’API externe (OpenWeatherMap) + design moderne
+- Géolocalisation, recherche, icônes dynamiques
+- Backend FastAPI + Docker
+→ [Voir le repository](https://github.com/DjDaveLafleur815/climaflow)
+
+### **TaskFlow** — Gestion de tâches avancée
+Application complète de productivité
 → [Voir le repository](https://github.com/DjDaveLafleur815/taskflow_flutter)
-
-*(Autres projets en cours : Application connectée API, MVP client...)*
 
 ---
 
 ## 🎯 Disponible pour
 
-- Création de **MVP** pour startups
-- Applications métiers sur mesure
-- Évolution / maintenance d’applications existantes
+- Création de **MVP** pour startups et PME
+- Applications métiers sur mesure (gestion, réservation, productivité…)
+- Refonte ou évolution d’applications existantes
 - Projets en remote ou en Bourgogne-Franche-Comté
 
-**Tarif** : 250 € / jour
+**Tarif journalier** : 250 € / jour
 
 ---
 
 ## 📫 Me contacter
 
-- **Malt** → [Ton profil Malt]
+- **Malt** → [Lien Malt]
 - **LinkedIn** → [David ANTOINE](https://www.linkedin.com/in/david-antoine-73a038270/)
 - **Email** → david.dharma815@outlook.fr
 
 ---
 
-*Ouvert aux opportunités freelance — N’hésitez pas à me contacter pour discuter de votre projet !*
+*Ouvert aux nouvelles opportunités freelance. N’hésitez pas à me contacter, je réponds rapidement !*
