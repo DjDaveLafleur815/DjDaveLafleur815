@@ -51,7 +51,7 @@ Application de productivité complète
 ---
 
 **Email** : david.dharma815@outlook.fr  
-**Malt** : [lien]  
-**LinkedIn** : [lien]
+**Malt** : [[lien](https://www.malt.fr/profile/davidantoine1?origin=dashboard_profile_name)] 
+**LinkedIn** : [[lien](https://www.linkedin.com/in/david-antoine-73a038270/)]
 
 *Actuellement ouvert aux nouvelles missions freelance.*
